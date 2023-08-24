@@ -1,0 +1,146 @@
+CarFix - Car Maintenance & Repair Service
+
+This is a vehicle repair site
+
+
+
+#---------- HEADER ----------#
+
+alt = CarFix home
+
+Home
+About
+Services
+Projects
+Contact
+
+Get a Quote
+<span class="material-symbols-rounded">arrow_forward</span>
+
+aria-label = toggle menu
+
+
+#---------- HERO ----------#
+
+We have talented Engineers from all over the Country 
+
+Car Maintenance & Repair Service
+
+
+Our Services
+<span class="material-symbols-rounded">arrow_forward</span>
+
+alt = red motor vehicle
+
+
+
+#---------- SERVICE ----------#
+
+Our services
+We Provide Great Services For your Vehicle
+
+alt = Engine Repair
+Engine Repair
+
+
+alt = Brake Repair
+Brake Repair
+
+alt = Tire Repair
+Tire Repair
+
+alt = Battery Repair
+Battery Repair
+
+alt = Red Car
+
+alt = Steering Repair
+Steering Repair
+
+View All Services
+<span class="material-symbols-rounded">arrow_forward</span>
+
+
+
+#---------- ABOUT ----------#
+
+alt = vehicle repair equipments
+
+About Us
+
+We are Committed to Meet the Quality Standards.
+
+
+
+10K+
+Happy Clients
+
+22+
+Instruments
+
+10+
+Years in market
+
+99%
+Projects completed
+
+
+
+#---------- WORK ----------#
+
+Our Work
+
+
+
+alt = Engine Repair
+Auto Repair
+Engine Repair
+
+<span class="material-symbols-rounded">arrow_forward</span>
+
+alt = Car Tyre change
+Car Tyre change
+
+alt = Battery Adjust
+Battery Adjust
+
+
+
+#---------- FOOTER ----------#
+
+alt = CarFix home
+
+
+
+alt = facebook
+alt = instagram
+alt = twitter
+
+Opening Hours
+
+Monday – Friday
+8:00 AM – 4:45 PM
+
+Saturday – Sunday
+10:00 AM – 2:00 PM
+
+
+
+Contact Info
+
+<span class="material-symbols-rounded">call</span>
++91 9741288749
+
+<span class="material-symbols-rounded">mail</span>
+info@carfix.com
+
+<span class="material-symbols-rounded">location_on</span>
+#21 RR Nagar Bangalore, 560098, India
+
+alt = Shape
+
+Copyright 2023, All Rights Reserved.
+
+alt = Shape
+
+alt = Black Car
